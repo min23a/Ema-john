@@ -1,0 +1,9 @@
+.total-text{
+    margin-left:20px;
+}
+.review{
+    display: flex;
+}
+.review-box{
+    width: 75%;
+}

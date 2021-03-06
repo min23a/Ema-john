@@ -1,0 +1,19 @@
+.product{
+    display: flex;
+    padding: 10px;
+    border-bottom: 1px solid lightgrey;
+}
+.product_details h5{
+    color: blue;
+    font-size: 15px;
+    font-weight: 500;
+    padding-left: 5px;
+}
+.addToCart_btn{
+    border: .5px solid black;
+    border-radius: 3px;
+    font-weight: 600;
+    background-color: goldenrod;
+    height: 30px;
+    padding:0px 10px ;
+}

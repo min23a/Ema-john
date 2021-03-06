@@ -1,0 +1,16 @@
+.review-item{
+    display: flex;
+    width: 75%;
+    margin-left: 40px;
+}
+.detail{
+    padding-left: 10px;
+}
+.remove{
+    border: .5px solid black;
+    border-radius: 3px;
+    font-weight: 600;
+    background-color: goldenrod;
+    height: 30px;
+    padding: 0px 10px;
+}

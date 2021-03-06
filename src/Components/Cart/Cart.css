@@ -1,0 +1,12 @@
+.review-order{
+    border: .5px solid black;
+    border-radius: 3px;
+    font-weight: 600;
+    background-color: goldenrod;
+    height: 30px;
+    padding: 0px 10px;
+}
+.review-link{
+    text-decoration: none;
+    color: black;
+}

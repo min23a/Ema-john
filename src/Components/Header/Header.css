@@ -1,0 +1,25 @@
+.header{
+    text-align: center;
+}
+.header img{
+    height: 80px;
+}
+.menu_list{
+    display: flex;
+    list-style: none;
+    background-color: black;
+    height: 40px;
+    align-items: center;
+}
+.menu_item{
+    text-decoration: none;
+    color: white;
+    margin: 0px 10px;
+    font-weight: 500;
+    line-height: 30px;
+    font-size: 20px;
+    padding: 8px;
+}
+.menu_item:hover {
+    background-color: lightgrey;
+}
